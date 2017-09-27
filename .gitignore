@@ -1,0 +1,9 @@
+kafka-streams/kafka-streams.iml
+s3-to-message/s3-to-message.iml
+
+/.idea/
+kafka-streams/target
+/out/
+/project/
+/target/
+s3-to-message/target
